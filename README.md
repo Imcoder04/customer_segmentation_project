@@ -4,5 +4,5 @@ We used the [Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onli
 
 Due to GitHub file size limitations, the dataset is not uploaded directly in this repository.
 
-You can download it manually from the link above and place it in the `data/` folder as:
+You can download it manually from the link above and place it in the `data/` folder.
 
