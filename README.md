@@ -7,8 +7,11 @@ Due to GitHub file size limitations, the dataset is not uploaded directly in thi
 You can download it manually from the link above and place it in the `data/` folder.
 
 Performed by: Mayank Sarkar
+
 Project: Online Retail Dataset Analysis
+
 DATA CLEANING:-
+
 Overview
 -This document outlines the data cleaning steps performed on the OnlineRetail.csv dataset to ensure data quality and prepare it for analysis and modeling.
 
