@@ -32,4 +32,8 @@ df['CustomerID'] = df['CustomerID'].astype(int)
 # Create TotalPrice
 df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
 
+# Save clean data
+df.to_csv("OnlineRetail_cleaned.csv", index=False)
+
+
 
